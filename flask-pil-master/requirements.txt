@@ -7,7 +7,7 @@ itsdangerous==0.24
 Jinja2==2.9.4
 MarkupSafe==0.23
 olefile==0.44
-Pillow==4.0.0
+Pillow==8.1.1
 visitor==0.1.3
 Werkzeug==0.11.15
 WTForms==2.1
